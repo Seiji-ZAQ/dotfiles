@@ -1,4 +1,4 @@
-# dotfiles
+# Zaq's dotfiles
 
 Before using these dotfiles, need to setup (add symbolic link)
 ```shell
